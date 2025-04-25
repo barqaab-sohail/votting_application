@@ -1,16 +1,27 @@
-# judge_selection
+# BARQAAB WhatsApp Group Judges Selection App
 
-A new Flutter project.
+![App Screenshot](screenshot.png) <!-- Add a screenshot later -->
 
-## Getting Started
+A Flutter application for managing judge selection processes in WhatsApp groups with secure voting, member management, and real-time results.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏛️ **Presiding Officer System**: Designate an admin to manage the voting process
+- 🔒 **Secure Voting**: 4-digit security code (1122) for verification
+- 👥 **Member Management**: Add/remove group members dynamically
+- ✍️ **Flexible Judge Selection**: Configure number of judges to select
+- 📊 **Real-time Results**: View and share voting results
+- 🔄 **Reset Functionality**: Restart voting when needed
+- 📱 **Responsive Design**: Works on both mobile and tablet devices
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Prerequisites**
+   - Flutter SDK (latest stable version)
+   - Dart SDK
+   - Android Studio/Xcode (for emulator/simulator)
+
+2. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/judges-selection-app.git
+   cd judges-selection-app
