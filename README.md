@@ -1,6 +1,6 @@
 # BARQAAB WhatsApp Group Judges Selection App
 
-![App Interface](images/screensshot.jpg){: style="height:250px"}
+![App Screenshot](images/screensshot.jpg) <!-- Add a screenshot later -->
 
 A Flutter application for managing judge selection processes in WhatsApp groups with secure voting, member management, and real-time results.
 
